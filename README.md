@@ -21,7 +21,6 @@
 | Alan | Bilgi |
 |------|-------|
 | **Ad Soyad** | Berkan Kublay |
-| **Öğrenci No** | 2321032015 |
 | **Bölüm** | Bilgisayar Mühendisliği |
 | **Ders** | Programlama Dilleri 2 |
 | **Dönem** | 2025-2026 Bahar |
